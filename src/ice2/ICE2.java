@@ -7,7 +7,7 @@ package ice2;
 
 /**
  *
- * @author kashisachdev
+ * @author kashisachdevert
  */
 public class ICE2 {
 
